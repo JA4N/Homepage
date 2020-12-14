@@ -43,16 +43,7 @@
 	border: 7px solid crimson;
 	z-index: -1;
 }
-#about hr{
-	position: relative; 
-	border: none; 
-	height: 12px; 
-	background: black; 
-	height: 5px; 
-	margin: auto;
-	width: 50%;
-	margin-bottom: 70px;
-}
+
 #about .col-right .cta:hover {
 	color: white;
 }

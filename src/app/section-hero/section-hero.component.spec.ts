@@ -26,3 +26,5 @@ describe('SectionHeroComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
+

@@ -28,7 +28,7 @@ export class NavigationbarComponent implements OnInit {
     });
     document.addEventListener('scroll', () => {
       var scroll_position = window.scrollY;
-      if (scroll_position > 250) {
+      if (scroll_position > 100) {
         header.style.backgroundColor = '#29323c';
       } else {
         header.style.backgroundColor = 'transparent';
